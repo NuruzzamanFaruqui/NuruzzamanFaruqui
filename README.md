@@ -1,9 +1,8 @@
 <h1 align="left">👋 Hello, I'm Nuruzzaman Faruqui</h1>
 <h3 align="left">Assistant Professor | AI Researcher | Python Enthusiast</h3>
 
-<div align="left"> 
   <a href="mailto:faruqui.swe@diu.edu.bd" target="_blank">
-    <img src="https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Email-FFA500?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a> 
   <a href="https://www.linkedin.com/in/nuruzzaman-faruqui/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
