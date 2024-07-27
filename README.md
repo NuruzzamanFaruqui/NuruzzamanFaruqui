@@ -40,4 +40,3 @@ An award-winning researcher and teacher with 5 years of teaching experience in A
 <h2 align="left">📊 GitHub Stats 📊</h2>
 
 ![Nuruzzaman Faruqui's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NuruzzamanFaruqui&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NuruzzamanFaruqui&show_icons=true&theme=radical)
