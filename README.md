@@ -1,5 +1,5 @@
 <h1 align="left">👋 Hello, I'm Nuruzzaman Faruqui</h1>
-<h3 align="left">Assistant Professor | AI Researcher | Python Enthusiast</h3>
+<h3 align="left">Assistant Professor | AI Researcher | Author </h3>
 
   <a href="mailto:faruqui.swe@diu.edu.bd" target="_blank">
     <img src="https://img.shields.io/badge/Email-FFA500?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
